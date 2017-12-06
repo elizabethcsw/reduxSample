@@ -1,12 +1,12 @@
-# Live Youtube Search
+# Book Selector
 
-Built in React.
+Built with React and Redux.
 
 #### Getting Started
 
 ```
-> git clone https://github.com/elizabethcsw/reactSample.git
-> cd reactSample
+> git clone https://github.com/elizabethcsw/ReduxSample.git
+> cd ReduxSample
 > npm install
 > npm start
 ```
