@@ -5,8 +5,8 @@ Built with React and Redux.
 #### Getting Started
 
 ```
-> git clone https://github.com/elizabethcsw/ReduxSample.git
-> cd ReduxSample
+> git clone git@github.com:elizabethcsw/reduxSample.git
+> cd reduxSample
 > npm install
 > npm start
 ```
